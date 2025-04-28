@@ -1,5 +1,5 @@
 {
-    "name": "crud/slider",
+    "name": "nami/slider",
     "description": "Make all files required to make CRUD for sliders",
     "type": "library",
     "license": "MIT",
